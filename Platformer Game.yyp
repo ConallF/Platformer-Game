@@ -9,6 +9,7 @@
     {"id":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},"order":3,},
     {"id":{"name":"sprClouds","path":"sprites/sprClouds/sprClouds.yy",},"order":8,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"objWall","path":"objects/objWall/objWall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
